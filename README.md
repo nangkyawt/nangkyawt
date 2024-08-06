@@ -5,6 +5,5 @@
 - RESTful API development
 - Best practices in full-stack development
   
-📫How to reach me
--Linkedin: https://www.linkedin.com/in/nangkyawthsuhlaing
+📫How to reach me https://www.linkedin.com/in/nangkyawthsuhlaing
 

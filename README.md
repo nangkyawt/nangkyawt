@@ -3,11 +3,14 @@
 
 - 🌱 I’m currently learning **Advanced Angular techniques, RESTful API development, Best practices in full-stack development**
 
+- 💬 Ask me about **Angular and node.js**
+
 - 📫 How to reach me **nangkyawthsuhlaing@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nangkyawthsuhlaing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nangkyawthsuhlaing" height="30" width="40" /></a>
+</a>
+<a href="https://fb.com/https://www.facebook.com/nann.k.hlaing.5?mibextid=kfxxjd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nann.k.hlaing.5?mibextid=kfxxjd" height="30" width="40" /></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/nangkyawthsuhlaing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nangkyawthsuhlaing" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

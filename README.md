@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nang Kyawt Hsu Hlaing</h1>
 <h3 align="center">A junior MEAN stack developer from Myanmar.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nangkyawt&label=Profile%20views&color=0e75b6&style=flat" alt="nangkyawt" /> </p>
-
 - 🌱 I’m currently learning **Advanced Angular techniques, RESTful API development, Best practices in full-stack development**
 
 - 📫 How to reach me **nangkyawthsuhlaing@gmail.com**

@@ -1,5 +1,4 @@
 <h1 align="center">Welcome! 🌟, I'm Nang Kyawt Hsu Hlaing</h1>
-<h3 align="center">A junior MEAN stack developer from Myanmar.</h3>
 
 - 🌱 I’m currently learning **Advanced Angular techniques, RESTful API development, Best practices in full-stack development**
 

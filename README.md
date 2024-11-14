@@ -1,10 +1,10 @@
 <h1 align="center">Welcome! 🌟, I'm Nang Kyawt Hsu Hlaing</h1>
 
-- 🌱 I’m currently learning **Advanced Angular techniques, RESTful API development, Best practices in full-stack development**
+- 🌱 Currently learning **Advanced Angular techniques, RESTful API development, Best practices in full-stack development**
 
-- 💬 Ask me about **Angular and node.js**
+- 💬 **Angular and node.js**
 
-- 📫 How to reach me **nangkyawthsuhlaing@gmail.com**
+- 📫 **nangkyawthsuhlaing@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

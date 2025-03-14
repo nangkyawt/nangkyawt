@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! 🌟, I'm Nang Kyawt Hsu Hlaing</h1>
+<h1 align="center">I'm Nang Kyawt Hsu Hlaing</h1>
 
 - 🧩 Currently learning **Advanced Angular techniques, RESTful API development, Best practices in full-stack development**
 

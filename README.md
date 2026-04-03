@@ -38,4 +38,4 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d5a05e2e-05ff-4a65-9f50-3ee38f39ef13?raw=true" width="400" alt="Loader Animation" />
+  <img src="https://github.com/user-attachments/assets/d5a05e2e-05ff-4a65-9f50-3ee38f39ef13?raw=true" width="300" alt="Loader Animation" />
